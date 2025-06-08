@@ -37,7 +37,7 @@ body {
   text-align: center;
   width: 145px;
   outline: none;
-  color: #056638;
+  color: #000000;
   border: 1px solid transparent;
 }
 
@@ -52,7 +52,7 @@ body {
 }
 
 .custom_orange-btn {
-  background-color: #fc5d35;
+  background-color: #056638;
 }
 
 .custom_orange-btn:hover {
